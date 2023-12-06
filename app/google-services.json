@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282282616806",
+    "project_id": "floodmonitoring-6c3ec",
+    "storage_bucket": "floodmonitoring-6c3ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282282616806:android:f0fc87f54ad2c37128d827",
+        "android_client_info": {
+          "package_name": "com.example.floodmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282282616806-0qrta9fu4887gqevr3is7e69dgo4m9a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJJTsTvddCDXT31bKhWTb-oQJQM84Gq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282282616806-0qrta9fu4887gqevr3is7e69dgo4m9a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
