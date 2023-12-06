@@ -1,24 +1,24 @@
-<h1>WaterLinks: Flood Water Level Monitoring Android App 🌊📱</h1>
+<h1>WaterLinks: Flood Water Level Monitoring and Alert System Android Application 🌊📱</h1>
 
-##Overview
+<h2>Overview</h2>
 WaterLinks is an Android mobile application designed for monitoring flood water levels for Barangays of Pasig City. This app provides real-time updates and alerts, helping users stay informed about potential flood risks in their area.
 
-##Key Features 🔑
+<h3>Key Features 🔑 </h3>
 Real-time monitoring of water levels
 SMS Messages and Push up notifications
 Historical data analysis for flood patterns
 User-friendly interface for easy navigation
 
-##Technologies Used 💻
+<h3>Technologies Used 💻</h3>
 Android Studio
 Firebase Realtime Database
 Adobe Photoshop for Image Resources/Assets
 
-##Getting Started ➡️
+<h3>Getting Started ➡️</h3>
 Clone the repository
 Set up your Firebase project
 Build and run the app in Android Studio 
 Change the Firebase instances as needed
 
-##Contact 📧
+<h3>Contact 📧</h3>
 For questions or support, please contact erikkuuu23@gmail.com.
