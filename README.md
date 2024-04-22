@@ -3,10 +3,12 @@
 This is our capstone project aimed at providing real-time flood monitoring using Firebase and ESP32 microcontrollers. 
 The Android application, developed using Android Studio and Java, fetches data from Firebase and displays historical flood level data.
 
-<p align="center width="100">
-  <img src="1 - Splash Screen.jpg" width="33">
-  <img src="2 - Login Page.jpg" width="33">
-  <img src="5 - Historical Data.jpg" width="33">
+<p align="center" width="100%">
+  <img src="1 - Splash Screen.jpg" width="15%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="2 - Login Page.jpg" width="15%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="5 - Historical Data.jpg" width="15%">
   
 
 
